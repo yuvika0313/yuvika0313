@@ -23,10 +23,8 @@
 
 ```typescript
 const yuvika = {
-  title: "BCA Student",
+  title: "Computer Science Student",
   stack: ["Python", "C", "Java", "HTML", "CSS", "JavaScript"],
-  launchedProjects: [], // more coming soon!
-  certifications: [],
   status: "Learning, building, and exploring new technologies",
   openTo: ["Internships", "Entry-level Developer Roles", "Collaborations"],
 };
@@ -59,32 +57,12 @@ const yuvika = {
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yuvika0313&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%"/>
-
-</div>
-
-<br/>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvika0313&theme=react-dark&bg_color=0D1117&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
 ## 🤝 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=black)](https://www.linkedin.com/in/yuvika-agrahari-47bb45391/)
-[![Instagram](https://img.shields.io/badge/Instagram-7dd3fc?style=for-the-badge&logo=Instagram&logoColor=black&labelColor=black)](https://www.instagram.com/honeey_blush_?igsi=eTYzanhjdnRyaTBr)
+
 
 
 
