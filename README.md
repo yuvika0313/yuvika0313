@@ -84,6 +84,9 @@ const yuvika = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=black)](https://www.linkedin.com/in/yuvika-agrahari-47bb45391/)
+[![Instagram](https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=Instagram&logoColor=black&labelColor=black)](https://www.instagram.com/honeey_blush_?igsi=eTYzanhjdnRyaTBr)
+
+
 
 </div>
 
